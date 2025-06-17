@@ -1,0 +1,13 @@
+0 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K0.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K0.mzid 0
+1 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K1.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K1.mzid 0.046
+2 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K2.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K2.mzid 0.046
+3 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K3.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K3.mzid 0.046
+6 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K6.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K6.mzid 0.046
+7 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K7.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K7.mzid 0.046
+9 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K9.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K9.mzid 0.046
+13 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K13.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K13.mzid 0.046
+16 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K16.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K16.mzid 0.046
+21 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K21.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K21.mzid 0.046
+24 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K24.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K24.mzid 0.046
+31 \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K31.mzML \\UT321319\Shared_Folder\Liverpool\Kidney\Kidney_FASP_2h_K31.mzid 0.046
+

@@ -1,0 +1,13 @@
+0 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_2h_HW_M0.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_2h_HW_M0.mzid 0
+1 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M1.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M1.mzid 0.03855948
+2 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M2.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M2.mzid 0.04479649
+3 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M3.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M3.mzid 0.04580533
+6 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M6.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M6.mzid 0.04599918
+7 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M7.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M7.mzid 0.04599987
+9 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M9.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M9.mzid 0.046
+13 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M13.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M13.mzid 0.046
+16 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M16.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M16.mzid 0.046
+21 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M21.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M21.mzid 0.046
+24 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M24.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M24.mzid 0.046
+31 \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M31.mzML \\UT321319\Shared_Folder\Liverpool\Muscle\Muscle_HW_2h_M31.mzid 0.046
+

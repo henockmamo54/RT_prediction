@@ -1,0 +1,13 @@
+0 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H0.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H0.mzid 0.046
+1 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H1.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H1.mzid 0.046
+2 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H2.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H2.mzid 0.046
+3 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H3.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H3.mzid 0.046
+6 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H6.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H6.mzid 0.046
+7 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H7.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H7.mzid 0.046
+9 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H9.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H9.mzid 0.046
+13 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H13.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H13.mzid 0.046
+16 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H16.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H16.mzid 0.046
+21 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H21.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H21.mzid 0.046
+24 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H24.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H24.mzid 0.046
+31 \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H31.mzML \\UT321319\Shared_Folder\Liverpool\Heart\Heart_HW_2h_H31.mzid 0.046
+

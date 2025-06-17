@@ -1,0 +1,13 @@
+0 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L0.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L0.mzid 0
+1 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L1.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L1.mzid 0.03855948
+2 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L2.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L2.mzid 0.04479649
+3 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L3.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L3.mzid 0.04580533
+6 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L6.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L6.mzid 0.04599918
+7 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L7.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L7.mzid 0.04599987
+9 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L9.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L9.mzid 0.046
+13 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L13.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L13.mzid 0.046
+16 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L16.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L16.mzid 0.046
+21 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L21.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L21.mzid 0.046
+24 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L24.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L24.mzid 0.046
+31 \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L31.mzML \\UT321319\Shared_Folder\Liverpool\Liver\Liver_HW_2h_L31.mzid 0.046
+
