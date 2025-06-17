@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import json
 import argparse # Import argparse for command-line argument parsing
 
-"""# Set random seeds for reproducibility"""
+# Set random seeds for reproducibility
 tf.random.set_seed(42)
 np.random.seed(42)
 
@@ -737,19 +737,19 @@ def plot_training_history(history):
 if __name__ == "__main__":
     # Create the parser
     parser = argparse.ArgumentParser(description="Train a Transformer model for peptide retention time prediction.")
-
+    
     # Add arguments for each parameter with default values
     parser.add_argument('--max_peptide_length', type=int, default=52,
                         help='Maximum length of the peptide sequences.')
-    parser.add_argument('--embed_dim', type=int, default=52,
+    parser.add_argument('--embed_dim', type=int, default=32,
                         help='Embedding size for each token.')
-    parser.add_argument('--num_heads', type=int, default=4,
+    parser.add_argument('--num_heads', type=int, default=8,
                         help='Number of attention heads.')
-    parser.add_argument('--ff_dim', type=int, default=32,
+    parser.add_argument('--ff_dim', type=int, default=64,
                         help='Hidden layer size in feed forward network inside transformer.')
-    parser.add_argument('--batch_size', type=int, default=64,
+    parser.add_argument('--batch_size', type=int, default=32,
                         help='Batch size for training.')
-    parser.add_argument('--epoch', type=int, default=5,
+    parser.add_argument('--epoch', type=int, default=1000,
                         help='Number of training epochs.')
     parser.add_argument('--dropout_rate', type=float, default=0.1,
                         help='Dropout rate for regularization.')
