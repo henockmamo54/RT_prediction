@@ -1,0 +1,10 @@
+Peptides, PeptideUnique, RateConstants, Correlations, RootMeanRSS, AbsoluteIsotopeError, Charge, m/z(Sequence), NEH, Abundance, NDP, Rsquared,sigma,CI lower band, CI upper band
+VSTEAEFSPEDSPSIR, Yes, 0.67839, 0.995412, 0.011204, 0.094621,  2,   875.91013,  38, 16568295.000000, 5.000000, 0.988609, 0.049413, 0.541197, 0.815581
+
+
+MeanRateConst/CorrCutOff, 0.678389, 0.900000
+
+
+MedianRateConst/RMSSCutOff, 0.678389, 0.050000
+StandDev/NumberPeptides, 0.049413, 1
+TotalIonCurrent, 4.39492e+08

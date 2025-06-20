@@ -1,0 +1,77 @@
+{
+  "timestamp": "20250617_205557",
+  "max_peptide_length": 52,
+  "embed_dim": 32,
+  "num_heads": 8,
+  "ff_dim": 64,
+  "dropout_rate": 0.1,
+  "num_transformer_blocks": 2,
+  "batch_size": 32,
+  "vocab_size": 25,
+  "vocab": [
+    "<PAD>",
+    "A",
+    "R",
+    "N",
+    "D",
+    "C",
+    "Q",
+    "E",
+    "G",
+    "H",
+    "I",
+    "L",
+    "K",
+    "M",
+    "F",
+    "P",
+    "S",
+    "T",
+    "W",
+    "Y",
+    "V",
+    "m",
+    "c",
+    "<STOP>",
+    "<UNK>"
+  ],
+  "data_info": {
+    "train_samples": 22418,
+    "val_samples": 3957,
+    "test_samples": 2931,
+    "peptide_length_range": [
+      7,
+      44
+    ],
+    "rt_range_original_data": [
+      12.0455735,
+      89.9964675
+    ],
+    "rt_range_scaled_bounds_used": [
+      10.0,
+      90.0
+    ],
+    "rt_range_normalized_data": [
+      0.025569668749999996,
+      0.9999558437499999
+    ],
+    "training_duration_seconds": 17808,
+    "epochs_completed": 438
+  },
+  "test_results": {
+    "test_loss": 0.0003512635303195566,
+    "test_mae": 0.019533909857273102,
+    "test_mse": 0.0007025270606391132,
+    "test_rmse": 0.02650522704371938,
+    "original_scale_mae_orig": 1.5627129324787725,
+    "original_scale_mse_orig": 4.496173546823548,
+    "original_scale_rmse_orig": 2.120418248087756,
+    "original_scale_r2_orig": 0.9834184859311353,
+    "original_scale_mean_residuals": -0.28190276619809834,
+    "original_scale_median_residuals": -0.3677789277343777,
+    "original_scale_std_residuals": 2.1015956740613566,
+    "original_scale_mean_abs_error": 1.5627129324787725,
+    "original_scale_median_abs_error": 1.2022597465820297,
+    "original_scale_std_abs_error": 1.4332138142953907
+  }
+}
